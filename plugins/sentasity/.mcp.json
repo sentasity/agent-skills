@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sentasity": {
+      "type": "http",
+      "url": "https://api.sentasity.com/mcp"
+    }
+  }
+}

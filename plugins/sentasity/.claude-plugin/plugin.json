@@ -1,0 +1,15 @@
+{
+  "name": "sentasity",
+  "displayName": "Sentasity",
+  "version": "0.1.2",
+  "description": "Connect your assistant to Sentasity's AWS cost and security findings, and set up your business context in a short conversation.",
+  "author": {
+    "name": "Sentasity",
+    "email": "support@sentasity.com",
+    "url": "https://sentasity.com"
+  },
+  "homepage": "https://docs.sentasity.com/setup-and-troubleshooting/setup/mcp-server/",
+  "repository": "https://github.com/sentasity/agent-skills",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://sentasity.com/privacy"
+}

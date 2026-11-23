@@ -1,0 +1,17 @@
+{
+  "name": "sentasity-agent-skills",
+  "description": "Sentasity's plugin for AI assistants: the hosted Sentasity MCP connector plus skills for working with it.",
+  "owner": {
+    "name": "Sentasity",
+    "email": "support@sentasity.com",
+    "url": "https://sentasity.com"
+  },
+  "plugins": [
+    {
+      "name": "sentasity",
+      "source": "./plugins/sentasity",
+      "description": "Connect your assistant to Sentasity's AWS cost and security findings, and set up your business context in a short conversation.",
+      "version": "0.1.2"
+    }
+  ]
+}
