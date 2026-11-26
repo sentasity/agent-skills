@@ -11,7 +11,7 @@
       "name": "sentasity",
       "source": "./plugins/sentasity",
       "description": "Connect your assistant to Sentasity's AWS cost and security findings, and set up your business context in a short conversation.",
-      "version": "0.1.2"
+      "version": "0.1.4"
     }
   ]
 }
